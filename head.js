@@ -2,8 +2,8 @@
 head = arr => arr[0];
 
 const assertEqual = (actual, expected) => {
-  actual === expected ? console.log(`Assertion Passed: ${actual} === ${expected}`) 
-  : console.log(`Assertion Failed: ${actual} !== ${expected}`)         
+  actual === expected ? console.log(`Assertion Passed: ${actual} === ${expected}`)
+    : console.log(`Assertion Failed: ${actual} !== ${expected}`);
 };
 
 // TEST CODE
