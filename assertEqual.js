@@ -4,8 +4,9 @@ const assertEqual = function(actual, expected) {
     : console.log(`Assertion Failed: ${actual} !== ${expected}`);
 };
 
-// TEST CODE
-assertEqual("Lighthouse Labs", "Bootcamp");
-assertEqual(1, parseInt('1', 10));
-assertEqual(1, 2);
-assertEqual('Anton', 'Anton');
+module.exports = assertEqual;
+
+// assertEqual("Star Wars", "Star Wars");
+// assertEqual("Lighthouse Labs", "Bootcamp");
+// assertEqual(1, 1);
+// assertEqual(20, 20.01);
