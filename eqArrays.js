@@ -10,6 +10,8 @@ const eqArrays = (arr1, arr2) => {
   return true;
 };
 
+
 const assertEqual = require('./assertEqual');
 
 module.exports = eqArrays;
+
