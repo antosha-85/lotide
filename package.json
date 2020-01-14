@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@antosha-85/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "lotide project with functions",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/antosha-85/lotide.git"
   },
-  "author": "",
+  "author": "Anton Smirnov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/antosha-85/lotide/issues"
